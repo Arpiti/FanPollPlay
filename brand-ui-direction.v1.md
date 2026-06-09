@@ -7,13 +7,17 @@
 
 ### 1.1 Brand Name Treatment
 
-"FanPollPlay" is always rendered in two visual registers simultaneously — this split is the core identity logic:
+"FanPollPlay" is rendered as a three-part wordmark in a single continuous line — three words, three visual registers, one name. The split is the core identity logic: each segment carries a distinct personality drawn directly from the brand's pixel-retro soccer game aesthetic. All three parts use Press Start 2P. No space between parts — a 4px gap only, keeping the name compound.
 
-**POOL** in the primary pixel display font, uppercase, with a slight pixel-grid drop shadow offset 2px right and 2px down in a contrasting color (amber or red). This is the "scoreboard" word — heavy, blocky, stadium-announcement energy.
+**Fan** — Press Start 2P, Pixel White (`#F0EDE8`), regular weight. The lightest of the three parts visually. This is the "crowd" word — the audience, the group chat, the people watching. No shadow, no overlay. Clean and present, the way a stadium full of people is background and foreground simultaneously.
 
-**Play** in the same font but rendered in the brand's electric green — the pitch color — as if it is lit from below. On digital surfaces, a subtle 1px scanline overlay runs across the wordmark at 10% opacity to simulate a CRT screen. The two words sit on one line with a 4px gap, no space, suggesting they are a compound — not two words but one product name with two personalities.
+**Poll** — Press Start 2P, Scoreboard Amber (`#F5A623`), uppercase. Pixel drop shadow offset 2px right and 2px down, rendered in Deep Arcade Navy (`#0D1B2A`). This is the "scoreboard" word — heavy, blocky, stadium-announcement energy. It carries the weight of the prediction mechanic: the thing everyone sees, the number everyone argues about.
 
-The wordmark sits inside an optional lockup: a pixel-art scoreboard frame (two vertical columns of pixels flanking the name, suggesting stadium floodlight stanchions). This frame is used on app launch screens, OG images, and WhatsApp share cards. It is omitted on compact placements like the mobile header.
+**Play** — Press Start 2P, Pitch Green (`#16A83C`). Rendered as if lit from below by pitch-side floodlights — the CRT glow of a match in progress. A 1px scanline overlay runs across this segment only, at 10% opacity, simulating CRT phosphor persistence. This is the "game" word: the action, the result, the moment the prediction resolves.
+
+The three parts sit on one baseline with a 4px gap between each segment — not a space, not a hyphen. The name reads as one product with three personalities running left to right: who is here, what they are doing, why it matters.
+
+The wordmark sits inside an optional lockup: a pixel-art scoreboard frame (two vertical columns of pixels flanking the full name, suggesting stadium floodlight stanchions). This frame is used on app launch screens, OG images, and WhatsApp share cards. It is omitted on compact placements like the mobile header, where the icon mark takes its place.
 
 **Clear space rule**: The height of the letter "P" on all sides. Never place the wordmark on busy photographic backgrounds without a dark overlay.
 
